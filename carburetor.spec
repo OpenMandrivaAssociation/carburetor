@@ -4,8 +4,8 @@ Release:        1
 Summary:        Graphical settings app for tractor in GTK
 
 License:        GPL-3.0-or-later
-URL:            https://gitlab.gnome.org/World/Endeavour/
-Source0:        https://gitlab.gnome.org/World/Endeavour/-/archive/%{tarball_version}/Endeavour-%{tarball_version}.tar.bz2
+URL:            https://framagit.org/tractor/carburetor/
+Source0:        https://framagit.org/tractor/carburetor/-/archive/%{version}/carburetor-%{version}.tar.bz2
 
 BuildRequires:  meson
 BuildRequires:  pkgconfig(gio-2.0)
