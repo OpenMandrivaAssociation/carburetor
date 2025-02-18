@@ -46,5 +46,14 @@ Key Features:
 
 %install
 %meson_install
+%find_lang %{name}
 
-%files
+%files -f %{name}.lang
+%{_bindir}/%{name}
+%{_datadir}/applications/io.frama.tractor.carburetor.desktop
+%{_datadir}/carburetor/
+%{_datadir}/dbus-1/services/io.frama.tractor.carburetor.service
+%{_datadir}/metainfo/io.frama.tractor.carburetor.metainfo.xml
+%{_iconsdir}/hicolor/scalable/apps/io.frama.tractor.carburetor.svg
+%{_iconsdir}/hicolor/symbolic/apps/io.frama.tractor.carburetor-symbolic.svg
+%{_mandir}/man1/carburetor.1.*
