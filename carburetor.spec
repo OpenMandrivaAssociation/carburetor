@@ -7,6 +7,7 @@ License:        GPL-3.0-or-later
 URL:            https://framagit.org/tractor/carburetor/
 Source0:        https://framagit.org/tractor/carburetor/-/archive/%{version}/carburetor-%{version}.tar.bz2
 
+BuildRequires:  gettext
 BuildRequires:  meson
 BuildRequires:  pkgconfig(gio-2.0)
 BuildRequires:  pkgconfig(glib-2.0)
