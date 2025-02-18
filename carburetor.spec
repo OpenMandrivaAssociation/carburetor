@@ -1,3 +1,4 @@
+%undefine _debugsource_packages
 Name:           carburetor 
 Version:        5.0.0
 Release:        1
