@@ -14,6 +14,7 @@ BuildRequires:  pkgconfig(gio-2.0)
 BuildRequires:  pkgconfig(glib-2.0)
 BuildRequires:  pkgconfig(gtk4)
 BuildRequires:  pkgconfig(libadwaita-1)
+BuildRequires:  pkgconfig(libxml-2.0)
 BuildRequires:	pkgconfig(gobject-introspection-1.0)
 BuildRequires:  pkgconfig(python3)
 BuildRequires:  python
