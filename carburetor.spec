@@ -53,6 +53,7 @@ Key Features:
 %{_datadir}/applications/io.frama.tractor.carburetor.desktop
 %{_datadir}/carburetor/
 %{_datadir}/dbus-1/services/io.frama.tractor.carburetor.service
+%{_datadir}/glib-2.0/schemas/io.frama.tractor.carburetor.gschema.xml
 %{_datadir}/metainfo/io.frama.tractor.carburetor.metainfo.xml
 %{_iconsdir}/hicolor/scalable/apps/io.frama.tractor.carburetor.svg
 %{_iconsdir}/hicolor/symbolic/apps/io.frama.tractor.carburetor-symbolic.svg
