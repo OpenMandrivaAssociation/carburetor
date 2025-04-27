@@ -16,6 +16,7 @@ BuildRequires:  pkgconfig(gtk4)
 BuildRequires:  pkgconfig(libadwaita-1)
 BuildRequires:	pkgconfig(gobject-introspection-1.0)
 BuildRequires:  pkgconfig(python3)
+BuildRequires:  python
 
 Requires:  gtk4
 Requires:  python
