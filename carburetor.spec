@@ -1,7 +1,7 @@
 %undefine _debugsource_packages
 Name:           carburetor 
 Version:        5.1.1
-Release:        1
+Release:        2
 Summary:        Graphical settings app for tractor in GTK
 
 License:        GPL-3.0-or-later
